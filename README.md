@@ -1,0 +1,1 @@
+ [![](https://github.com/docker-images-mamono210/circleci-executors_ansible/workflows/build/badge.svg)](https://github.com/docker-images-mamono210/circleci-executors_ansible/actions?query=workflow%3Abuild)
